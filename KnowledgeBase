@@ -1,0 +1,29 @@
+----------------------------------------
+Telegram Bot Info: https://core.telegram.org/bots
+Telegram Inline Bot Example: https://telegram.org/blog/inline-bots
+----------------------------------------
+
+
+
+----------------------------------------
+Bittrex API Usage: https://www.youtube.com/watch?v=K0lDTK3D-74 // https://github.com/coinables/bittrex/blob/master/index.php
+Building your own CryptoCurrency Bot: https://www.youtube.com/watch?v=fpqzXgZjSqM
+Full Documentation of a Telegram Bot Integration with Python: https://www.codementor.io/garethdwyer/building-a-telegram-bot-using-python-part-1-goi5fncay
+----------------------------------------
+
+
+
+----------------------------------------
+Telegram Bot Name: CrypBot
+Telegram Bot Username: my_cryp_bot ; t.me/my_cryp_bot
+Telegram Bot token (Access to the HTTP API): 529246459:AAE5TcMi8YosSMItTxG5l1Trej11uLEixvk
+Telegram Bot getState: https://api.telegram.org/bot529246459:AAE5TcMi8YosSMItTxG5l1Trej11uLEixvk/getme
+Telegram Bot getLastMessages: https://api.telegram.org/bot529246459:AAE5TcMi8YosSMItTxG5l1Trej11uLEixvk/getupdates
+Telegram Bot SendMessage: https://api.telegram.org/bot529246459:AAE5TcMi8YosSMItTxG5l1Trej11uLEixvk/sendMessage?chat_id=<chat_id>&text=TestReply
+----------------------------------------
+
+
+
+----------------------------------------
+Python Pip & Windows: https://stackoverflow.com/questions/4750806/how-do-i-install-pip-on-windows
+----------------------------------------
